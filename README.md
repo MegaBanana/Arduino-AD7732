@@ -1,1 +1,2 @@
-# Arduino-AD7732
+AD7732 24-bit SPI ADC
+================
